@@ -1,0 +1,41 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+/* Additional styles for responsiveness */
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px !important;
+    }
+}
