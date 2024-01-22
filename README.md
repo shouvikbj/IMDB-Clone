@@ -22,7 +22,7 @@ A mini IMDB clone app built using vanilla JavaScript, HTML, and CSS.
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/imdb-clone.git
+   git clone https://github.com/shouvikbj/IMDB-Clone.git
    cd imdb-clone
     ```
 2. Open the project in your preferred code editor.
